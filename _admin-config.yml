@@ -1,0 +1,8 @@
+options:
+  imagePath: /images
+  overwriteImages: true
+  askImageFilename: false
+  lineNumbers: false
+  imagePrefix: blog-
+editor:
+  lineNumbers: false
